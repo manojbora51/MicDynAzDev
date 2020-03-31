@@ -1,0 +1,2 @@
+# MicDynAzDev
+Microsoft powerstack
